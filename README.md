@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6
 
 https://www.youtube.com/watch?v=tvvEqvyh_Vw
 
+https://www.youtube.com/watch?v=H1elmMBnykA
+
 Dr. Öğr. Üyesi Volkan Müjdat TİRYAKİ
 
 E-posta: tiryakiv@siirt.edu.tr
