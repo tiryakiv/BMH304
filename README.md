@@ -4,6 +4,8 @@ Bu sayfada Siirt Üniversitesi Bilgisayar Mühendisliği Bölümü Programlama D
 
 Python kurulumu için python.org adresinden faydalanabilirsiniz. Aşağıdaki linklerde kurulumun nasıl yapılacağı anlatılıyor. Eğer bir Gmail hesabınız varsa, kurulum yapmaya gerek olmadan Google Colab'da python kodları yazabilirsiniz (An itibariyle Google Colab'da python versiyonu 3.7). 
 
+Google Colab linki: https://research.google.com/colaboratory/
+
 Yukarıda bulunan kodların hangi güne ait olduğunu dosya isminin sonunda belirttim.
 
 Bu ders için yardımcı kaynakların listesi:
