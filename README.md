@@ -8,11 +8,14 @@ Google Colab linki: https://research.google.com/colaboratory/
 
 Yukarıda bulunan kodların hangi güne ait olduğunu dosya isminin sonunda belirttim.
 
-Bu ders için yardımcı kaynakların listesi:
-
-https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+Bu ders için yardımcı Türkçe kaynakların listesi:
 
 https://www.youtube.com/watch?v=tvvEqvyh_Vw
+
+
+Bu ders için yardımcı İngilizce kaynakların listesi:
+
+https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
 https://www.youtube.com/watch?v=H1elmMBnykA
 
