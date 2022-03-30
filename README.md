@@ -10,16 +10,16 @@ Yukarıda bulunan kodların hangi güne ait olduğunu dosya isminin sonunda beli
 
 Bu ders için yardımcı Türkçe kaynakların listesi:
 
-https://www.youtube.com/watch?v=tvvEqvyh_Vw
+Derste takip ettiğimiz video:  https://www.youtube.com/watch?v=tvvEqvyh_Vw
 
 
 Bu ders için yardımcı İngilizce kaynakların listesi:
 
-https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+Corey Shafer python dersi (~200 video): https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
-https://www.youtube.com/watch?v=8ext9G7xspg
+12 tane başlangıç seviyesi Python projesi tek videoda:  https://www.youtube.com/watch?v=8ext9G7xspg
 
-https://www.youtube.com/watch?v=H1elmMBnykA
+Derek Banas'ın python dersi:  https://www.youtube.com/watch?v=H1elmMBnykA
 
 Dr. Öğr. Üyesi Volkan Müjdat TİRYAKİ
 
