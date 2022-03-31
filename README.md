@@ -6,14 +6,15 @@ Python kurulumu için python.org adresinden faydalanabilirsiniz. Aşağıdaki li
 
 Google Colab linki: https://research.google.com/colaboratory/
 
-Yukarıda bulunan kodların hangi güne ait olduğunu dosya isminin sonunda belirttim.
+Yukarıda verilen kaynak kodlarında hangi güne ait olduğunu dosya isminin sonunda belirttim.
 
-Bu ders için yardımcı Türkçe kaynakların listesi:
+# Bu ders için yardımcı Türkçe kaynakların listesi:
 
 Derste takip ettiğimiz video:  https://www.youtube.com/watch?v=tvvEqvyh_Vw
 
 
-Bu ders için yardımcı İngilizce kaynakların listesi:
+
+# Bu ders için yardımcı İngilizce kaynakların listesi:
 
 Corey Shafer python dersi (~200 video): https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
