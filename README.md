@@ -21,6 +21,8 @@ Corey Shafer python dersi (~200 video): https://www.youtube.com/watch?v=YYXdXT2l
 
 Derek Banas'ın python dersi:  https://www.youtube.com/watch?v=H1elmMBnykA
 
+Intermediate seviye python dersi (6 saatlik): https://www.youtube.com/watch?v=HGOBQPFzWKo 
+
 Dr. Öğr. Üyesi Volkan Müjdat TİRYAKİ
 
 E-posta: tiryakiv@siirt.edu.tr
