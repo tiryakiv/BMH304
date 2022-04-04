@@ -18,11 +18,11 @@ Derste takip ettiğimiz video:  https://www.youtube.com/watch?v=tvvEqvyh_Vw
 
 Corey Shafer python dersi (~200 video): https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
-12 tane başlangıç seviyesi Python projesi tek videoda:  https://www.youtube.com/watch?v=8ext9G7xspg
+12 tane başlangıç seviyesi freecodecamp.org Python projesi tek videoda:  https://www.youtube.com/watch?v=8ext9G7xspg
 
 Derek Banas'ın python dersi:  https://www.youtube.com/watch?v=H1elmMBnykA
 
-Derste takip ettiğimiz freecodecamp orta seviye python dersi (6 saatlik): https://www.youtube.com/watch?v=HGOBQPFzWKo 
+Derste takip ettiğimiz freecodecamp.org orta seviye python dersi (6 saatlik): https://www.youtube.com/watch?v=HGOBQPFzWKo 
 
 Dr. Öğr. Üyesi Volkan Müjdat TİRYAKİ
 
