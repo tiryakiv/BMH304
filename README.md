@@ -6,7 +6,7 @@ Python kurulumu için python.org adresinden faydalanabilirsiniz. Aşağıdaki li
 
 Google Colab linki: https://research.google.com/colaboratory/
 
-Yukarıda verilen kaynak kodlarında hangi güne ait olduğunu dosya isminin sonunda belirttim.
+Yukarıda verilen kaynak kodlarında hangi güne ait olduğunu dosya isminin sonunda belirttim. (Ay _ Gün _ Yıl formatı kullanımıştır. )
 
 # Bu ders için yardımcı Türkçe kaynakların listesi:
 
