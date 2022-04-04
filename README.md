@@ -16,13 +16,13 @@ Derste takip ettiğimiz video:  https://www.youtube.com/watch?v=tvvEqvyh_Vw
 
 # Bu ders için yardımcı İngilizce kaynakların listesi:
 
+Derste takip ettiğimiz freecodecamp.org orta seviye python dersi (6 saatlik): https://www.youtube.com/watch?v=HGOBQPFzWKo 
+
 Corey Shafer python dersi (~200 video): https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
 12 tane başlangıç seviyesi freecodecamp.org Python projesi tek videoda:  https://www.youtube.com/watch?v=8ext9G7xspg
 
 Derek Banas'ın python dersi:  https://www.youtube.com/watch?v=H1elmMBnykA
-
-Derste takip ettiğimiz freecodecamp.org orta seviye python dersi (6 saatlik): https://www.youtube.com/watch?v=HGOBQPFzWKo 
 
 Dr. Öğr. Üyesi Volkan Müjdat TİRYAKİ
 
