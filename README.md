@@ -8,6 +8,8 @@ Google Colab linki: https://research.google.com/colaboratory/
 
 Yukarıda verilen kaynak kodlarında hangi güne ait olduğunu dosya isminin sonunda belirttim. (Ay _ Gün _ Yıl formatı kullanımıştır. )
 
+Arasınav hakkında bilgi: Sınav yüzyüze ve yazılı olarak vize takviminde belirtildiği gibi 21 Nisan 2022 Perşembe günü saat 13:00'da C10 dersliğinde yapılacaktır.
+
 # Bu ders için yardımcı Türkçe kaynakların listesi:
 
 Derste takip ettiğimiz video:  https://www.youtube.com/watch?v=tvvEqvyh_Vw
