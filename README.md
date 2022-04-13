@@ -2,6 +2,28 @@
 
 Bu sayfada Siirt Üniversitesi Bilgisayar Mühendisliği Bölümü Programlama Dilleri dersinde işlenen Python kodları paylaşılmaktadır. Kod parçalarının büyük bir kısmı https://docs.python.org/3/tutorial/index.html adresinden alınmıştır. 
 
+Python'u hangi alanlarda kullanabilirim?
+
+1) Web ve Internet Geliştirme
+
+Web: Django, Pyramid, Flask, Bottle, Plone, django CMS
+Internet protokolleri: HTML, XML, JSON, FTP, IMAP, soket arayüzü
+
+2) Bilimsel ve Sayısal Hesaplama
+SciPy, Pandas, IPython.
+
+3) Eğitim
+Eğitim uygulamaları için de ideal bir programlama dilidir. Örnek: Education Special Interest Group
+
+4) Masaüstü grafiksel kullanıcı arayüzü
+wxWidgets, Kivy, pyqt
+
+5) Yazılım geliştirme
+SCons, Buildbot, Apache Gump, Roundup, Trac
+
+6) İş uygulamaları
+Odoo, Tryton
+
 Python kurulumu için python.org adresinden faydalanabilirsiniz. Aşağıdaki linklerde kurulumun nasıl yapılacağı anlatılıyor. Eğer bir Gmail hesabınız varsa, kurulum yapmaya gerek olmadan Google Colab'da python kodları yazabilirsiniz (An itibariyle Google Colab'da python versiyonu 3.7). 
 
 Google Colab linki: https://research.google.com/colaboratory/
