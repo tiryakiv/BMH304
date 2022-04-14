@@ -14,19 +14,25 @@ Python'u hangi alanlarda kullanabilirim?
 
 SciPy, Pandas, IPython.
 
-3) Eğitim
+3) Yapay Zeka
+
+Paketler: scikit-learn, seaborn
+
+Framework: Keras, Tensorflow, PyTorch
+
+4) Eğitim
 
 Eğitim uygulamaları için de ideal bir programlama dilidir. Örnek: Education Special Interest Group
 
-4) Masaüstü grafiksel kullanıcı arayüzü
+5) Masaüstü grafiksel kullanıcı arayüzü
 
 wxWidgets, Kivy, pyqt
 
-5) Yazılım geliştirme
+6) Yazılım geliştirme
 
 SCons, Buildbot, Apache Gump, Roundup, Trac
 
-6) İş uygulamaları
+7) İş uygulamaları
 
 Odoo, Tryton
 
