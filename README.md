@@ -48,7 +48,7 @@ Arasınav hakkında bilgi: Sınav yüzyüze ve yazılı olarak vize takviminde b
 
 Derste takip ettiğimiz video:  https://www.youtube.com/watch?v=tvvEqvyh_Vw
 
-
+Doç. Dr. Yılmaz Kaya'nın Uygulamalı Örneklerle Python kitabı: http://www.papatya.gen.tr/Uygulamali_Orneklerle_Python_Programlama_Dili.htm
 
 # Bu ders için yardımcı İngilizce kaynakların listesi:
 
