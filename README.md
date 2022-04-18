@@ -60,7 +60,7 @@ Corey Shafer python dersi (~200 video): https://www.youtube.com/watch?v=YYXdXT2l
 
 Derek Banas'ın python dersi:  https://www.youtube.com/watch?v=H1elmMBnykA
 
-Wes McKinney'in kitabı: https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf
+Wes McKinney'in Python ile Veri Analizi kitabı: https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf
 
 Dr. Öğr. Üyesi Volkan Müjdat TİRYAKİ
 
