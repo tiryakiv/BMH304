@@ -44,6 +44,7 @@ Yukarıda verilen kaynak kodlarında hangi güne ait olduğunu dosya isminin son
 
 Arasınav hakkında bilgi: Sınav yüzyüze ve yazılı olarak vize takviminde belirtildiği gibi 21 Nisan 2022 Perşembe günü saat 13:00'da C10 dersliğinde yapılacaktır. Sınavda 12 Nisan 2022 tarihine kadar işlediğimiz her konudan sorumlusunuz. Python yazım kurallarına hakim olmanızı bekliyorum. 
 
+# Arasınav kağıtlarınızı okudum. Öğrenci bilgi sisteminde mesajlar bölümünden bakabilirsiniz.
 
 # Final yerine geçebilecek ödev ile ilgili duyuru metnine yukarıdan ulaşabilirsiniz. Bu ödevi yapamazsanız finalinizi olumsuz etkilemeyecek. 
 
