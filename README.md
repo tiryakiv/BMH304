@@ -40,7 +40,7 @@ Python kurulumu için python.org adresinden faydalanabilirsiniz. Aşağıdaki li
 
 Google Colab linki: https://research.google.com/colaboratory/
 
-Yukarıda verilen kaynak kodlarında hangi güne ait olduğunu dosya isminin sonunda belirttim. (Ay _ Gün _ Yıl formatı kullanımıştır. )
+Yukarıda verilen kaynak kodlarında hangi güne ait olduğunu dosya isminin sonunda belirttim. (Ay _ Gün _ Yıl ve işlenen konu başlığı formatı kullanımıştır. )
 
 Arasınav hakkında bilgi: Sınav yüzyüze ve yazılı olarak vize takviminde belirtildiği gibi 21 Nisan 2022 Perşembe günü saat 13:00'da C10 dersliğinde yapılacaktır. Sınavda 12 Nisan 2022 tarihine kadar işlediğimiz her konudan sorumlusunuz. Python yazım kurallarına hakim olmanızı bekliyorum. 
 
