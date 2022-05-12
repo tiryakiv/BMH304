@@ -66,6 +66,8 @@ Wes McKinney'in (ücretsiz) Python ile Veri Analizi kitabı: https://www.program
 
 Edouard Duchesnay'ın (ücretsiz) Python ile İstatistik ve Makine Öğrenmesi kitabı: http://www.ru.ac.bd/stat/wp-content/uploads/sites/25/2019/03/207_05_Duchesnay_Statistics_Machine_Learning_Python_2019.pdf 
 
+Clear code kanalının Python ile grafik kullanıcı ara yüzü tasarımı eğitim videosu: https://www.youtube.com/watch?v=QeMaWQZllhg
+
 Dr. Öğr. Üyesi Volkan Müjdat TİRYAKİ
 
 E-posta: tiryakiv@siirt.edu.tr
