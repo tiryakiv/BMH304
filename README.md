@@ -6,9 +6,9 @@ Python'u kullanabileceğimiz alanlardan bazıları:
 
 1) Web ve Internet Geliştirme
 
-  Web: Django, Pyramid, Flask, Bottle, Plone, django CMS
+    Web: Django, Pyramid, Flask, Bottle, Plone, django CMS
 
-  Internet protokolleri: HTML, XML, JSON, FTP, IMAP, soket arayüzü
+    Internet protokolleri: HTML, XML, JSON, FTP, IMAP, soket arayüzü
 
 2) Bilimsel ve Sayısal Hesaplama
 
