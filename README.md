@@ -12,37 +12,33 @@ Python'u kullanabileceğimiz alanlardan bazıları:
 
 2) Bilimsel ve Sayısal Hesaplama
 
-SciPy, Pandas, IPython.
+    SciPy, Pandas, IPython.
 
 3) Yapay Zeka
 
-Paketler: scikit-learn, seaborn
+    Paketler: scikit-learn, seaborn
 
-Framework: Keras, Tensorflow, PyTorch
+    Framework: Keras, Tensorflow, PyTorch
 
 4) Eğitim
 
-Eğitim uygulamaları için de ideal bir programlama dilidir. Örnek: Education Special Interest Group
+    Eğitim uygulamaları için de ideal bir programlama dilidir. Örnek: Education Special Interest Group
 
 5) Masaüstü grafiksel kullanıcı arayüzü
 
-wxWidgets, Kivy, pyqt
+    wxWidgets, Kivy, pyqt
 
 6) Yazılım geliştirme
 
-SCons, Buildbot, Apache Gump, Roundup, Trac
+    SCons, Buildbot, Apache Gump, Roundup, Trac
 
 7) İş uygulamaları
 
-Odoo, Tryton
+    Odoo, Tryton
 
-Python kurulumu için python.org adresinden bilgi alabilirsiniz. Aşağıdaki linklerin bir kısmında kurulumun nasıl yapılacağı anlatılıyor. Eğer bir Gmail hesabınız varsa, kurulum yapmaya gerek olmadan Google Colab'da python kodları yazabilirsiniz (Mart 2022 itibariyle Google Colab'da python versiyonu 3.7). 
+Python kurulumu için python.org adresinden bilgi alabilirsiniz. Aşağıdaki linklerin bir kısmında kurulumun nasıl yapılacağı anlatılıyor. Eğer bir Gmail hesabınız varsa, kurulum yapmaya gerek olmadan Google Colab'da python kodları yazabilirsiniz (Mart 2022 itibariyle Google Colab'da python versiyonu 3.7). Google Colab linki: https://research.google.com/colaboratory/
 
-Google Colab linki: https://research.google.com/colaboratory/
-
-Yukarıda verilen kaynak kodlarında hangi güne ait olduğunu dosya isminin sonunda belirttim. (Ay _ Gün _ Yıl ve işlenen konu başlığı formatı kullanımıştır. )
-
-Arasınav hakkında bilgi: Sınav yüzyüze ve yazılı olarak vize takviminde belirtildiği gibi 21 Nisan 2022 Perşembe günü saat 13:00'da C10 dersliğinde yapılacaktır. Sınavda 12 Nisan 2022 tarihine kadar işlediğimiz her konudan sorumlusunuz. Python yazım kurallarına hakim olmanızı bekliyorum. 
+Yukarıda verilen kaynak kodlarında hangi güne ait olduğunu dosya isminin sonunda belirttim. (Ay _ Gün _ Yıl ve işlenen konu başlığı formatı kullanılmıştır. )
 
 # Final yerine geçebilecek ödev ile ilgili duyuru metnine yukarıdan ulaşabilirsiniz. Bu ödevi yapamazsanız finalinizi olumsuz etkilemeyecek. 
 
