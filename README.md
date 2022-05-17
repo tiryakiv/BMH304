@@ -1,6 +1,6 @@
 # BMH304 Programlama Dilleri dersi sayfası
 
-Bu sayfada Siirt Üniversitesi Bilgisayar Mühendisliği Bölümü Programlama Dilleri dersinde işlenen Python kodları paylaşılmaktadır. Kod parçalarının büyük bir kısmı https://docs.python.org/3/tutorial/index.html adresinden alınmıştır. 
+Bu sayfada Siirt Üniversitesi Bilgisayar Mühendisliği Bölümü Programlama Dilleri dersinde işlenen Python kodları paylaşılmaktadır.
 
 Python'u kullanabileceğimiz alanlardan bazıları:
 
