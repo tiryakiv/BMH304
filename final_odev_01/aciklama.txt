@@ -1,0 +1,5 @@
+Gmail'e login yapın.
+resimler klasörünü bilgisayarınıza indirin. Bu resimler yazacağınız kodu sağlama yapacağınız resimlerdir.
+Google Drive'a gidin.
+resimler klasörünü google drive'a direk yükleyin. (sağ tıklayıp klasör yükle'yi seçin)
+final_odev_05_24_22.ipynb dosyasını colabda açın ve hücreleri çalıştırın.
