@@ -40,7 +40,7 @@ Python kurulumu için python.org adresinden bilgi alabilirsiniz. Aşağıdaki li
 
 Yukarıda verilen kaynak kodlarında hangi güne ait olduğunu dosya isminin sonunda belirttim. (Ay _ Gün _ Yıl ve işlenen konu başlığı formatı kullanılmıştır. )
 
-# Final yerine geçebilecek ödev ile ilgili duyuru metnine yukarıdan ulaşabilirsiniz. Bu ödevi yapamazsanız finalinizi olumsuz etkilemeyecek. 
+# Final yerine geçebilecek ödev ile ilgili duyuru metnine ve yardımcı dökümanlara final_odev_01 klasöründen ulaşabilirsiniz. Bu ödevi yapamazsanız finalinizi olumsuz etkilemeyecek. 
 
 # Bu ders için yardımcı Türkçe kaynakların listesi:
 
