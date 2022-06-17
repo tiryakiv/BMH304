@@ -2,7 +2,7 @@
 
 Bu sayfada Siirt Üniversitesi Bilgisayar Mühendisliği Bölümü Programlama Dilleri dersinde işlenen Python kodları paylaşılmaktadır.
 
-# Final kağıtlarınızı okudum. Öğrenci bilgi sisteminden sonuçlara bakabilir misiniz?
+# Final kağıtlarınızı okudum. Öğrenci bilgi sisteminden sonuçlara bakabilirsiniz.
 
 Python'u kullanabileceğimiz alanlardan bazıları:
 
