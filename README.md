@@ -60,7 +60,7 @@ Derek Banas'ın python dersi:  https://www.youtube.com/watch?v=H1elmMBnykA
 
 Wes McKinney'in (ücretsiz) Python ile Veri Analizi kitabı: https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf
 
-Edouard Duchesnay'ın (ücretsiz) Python ile İstatistik ve Makine Öğrenmesi kitabı: http://www.ru.ac.bd/stat/wp-content/uploads/sites/25/2019/03/207_05_Duchesnay_Statistics_Machine_Learning_Python_2019.pdf 
+Edouard Duchesnay'ın Python ile İstatistik ve Makine Öğrenmesi kitabı 
 
 Clear code kanalının Python ile grafik kullanıcı ara yüzü tasarımı eğitim videosu: https://www.youtube.com/watch?v=QeMaWQZllhg
 
