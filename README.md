@@ -62,6 +62,8 @@ Edouard Duchesnay'ın Python ile İstatistik ve Makine Öğrenmesi kitabı
 
 Clear code kanalının Python ile grafik kullanıcı ara yüzü tasarımı eğitim videosu: https://www.youtube.com/watch?v=QeMaWQZllhg
 
+
+
 Dr. Öğr. Üyesi Volkan Müjdat TİRYAKİ
 
 E-posta: tiryakiv@siirt.edu.tr
