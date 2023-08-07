@@ -56,6 +56,8 @@ Corey Shafer python dersi (~200 video): https://www.youtube.com/watch?v=YYXdXT2l
 
 Derek Banas'ın python dersi:  https://www.youtube.com/watch?v=H1elmMBnykA
 
+İngilizce kitap: An introduction to statistical learning.  https://www.statlearning.com/
+
 Wes McKinney'in (ücretsiz) Python ile Veri Analizi kitabı: https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf
 
 Edouard Duchesnay'ın Python ile İstatistik ve Makine Öğrenmesi kitabı 
@@ -64,6 +66,6 @@ Clear code kanalının Python ile grafik kullanıcı ara yüzü tasarımı eğit
 
 
 
-Dr. Öğr. Üyesi Volkan Müjdat TİRYAKİ
+Doç. Dr. Volkan Müjdat TİRYAKİ
 
 E-posta: tiryakiv@siirt.edu.tr
