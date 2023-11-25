@@ -20,21 +20,13 @@ Python'u kullanabileceğimiz alanlardan bazıları:
 
     Framework: Keras, Tensorflow, PyTorch
 
-4) Eğitim
-
-    Eğitim uygulamaları için de ideal bir programlama dilidir. Örnek: Education Special Interest Group
-
-5) Masaüstü grafiksel kullanıcı arayüzü
+4) Masaüstü grafiksel kullanıcı arayüzü
 
     wxWidgets, Kivy, pyqt
 
-6) Yazılım geliştirme
+5) Yazılım geliştirme
 
     SCons, Buildbot, Apache Gump, Roundup, Trac
-
-7) İş uygulamaları
-
-    Odoo, Tryton
 
 Python kurulumu için python.org adresinden bilgi alabilirsiniz. Aşağıdaki linklerin bir kısmında kurulumun nasıl yapılacağı anlatılıyor. Eğer bir Gmail hesabınız varsa, kurulum yapmaya gerek olmadan Google Colab'da python kodları yazabilirsiniz (Mart 2022 itibariyle Google Colab'da python versiyonu 3.7). Google Colab linki: https://research.google.com/colaboratory/
 
