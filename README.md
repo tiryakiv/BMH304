@@ -36,6 +36,8 @@ Yukarıda verilen kaynak kodlarında hangi güne ait olduğunu dosya isminin son
 
 Derste takip ettiğimiz video:  https://www.youtube.com/watch?v=tvvEqvyh_Vw
 
+Başka bir video: https://www.youtube.com/watch?v=_wZUNiGtkcw
+
 Doç. Dr. Yılmaz Kaya'nın Uygulamalı Örneklerle Python kitabı: http://www.papatya.gen.tr/Uygulamali_Orneklerle_Python_Programlama_Dili.htm
 
 # Bu ders için yardımcı İngilizce kaynakların listesi:
